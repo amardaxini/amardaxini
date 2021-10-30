@@ -1,8 +1,10 @@
+# Amar Daxini &mdash; @amardaxini
 
-## Hi, I am Amar Daxini. 
- 
-Technical Architect with 13+ years of experience in building large scale distributed products and platforms.        
-Strong passion for startups and working with new and emerging technologies.
+Hi! I'm Amar!
+
+Technical Architect with 13+ years of experience who enjoys building large scalable products & platforms. Passionate about startups and working with new and emerging technologies. I also enjoy solving engineering problems and mentoring people.
+
+
 
 ### Tech Stack
 
@@ -24,20 +26,15 @@ Strong passion for startups and working with new and emerging technologies.
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 
-### Connect With Me
+### Articles
 
-<a href="https://www.linkedin.com/in/amardaxini/" rel="Linkedin">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://amardaxini.medium.com/" rel="Blog">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
-<a href="http://paramitech.com" rel="Blog">![Linkedin](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
- <a href="mailto:amardaxini@gmail.com" rel="Gmail">![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- <a target="_blank" href="https://amardaxini.medium.com/our-cloud-migration-journey-from-aws-to-azure-9791d98bc7fd">Cloud Migration Journey from AWS to Azure</a>
+- <a target="_blank" href="https://medium.com/@yogisoftware/keys-to-prevent-startup-failures-c609bd0e6574">Keys to prevent startup failures</a>
+   
 
-
-
-### ✨ GitHub Stats
-
-  <a href="https://github.com/amardaxini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amardaxini&show_icons=true&theme=merko&count_private=true" alt="github stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amardaxini&theme=merko&layout=compact&langs_count=8&hide=coldfusion,css,html,asp" alt="amardaxini github top languages" />
-  </a>
-  <br/>
+### Get In Touch!
+- LinkedIn: https://www.linkedin.com/in/amardaxini/
+- Medium: https://medium.com/@amardaxini
+- Personal Blog: http://paramitech.com
+- Website: http://yogisoftware.com
 
