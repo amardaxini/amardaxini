@@ -1,21 +1,15 @@
-### Hi there 👋
 
-## I'm Amar Daxini. 
-
+## Hi, I am Amar Daxini. 
+ 
+Experienced application architect who enjoys building products from scratch to scalable state.
 
 <a href="https://www.linkedin.com/in/amardaxini/">
   <img align="left" alt="Amar Daxini LinkedIN" width="22px" src="https://raw.githubusercontent.com/amardaxini/amardaxini/master/linkedin.svg" />
 </a>
-<a href="https://amardaxini.medium.com/">
-  <img align="left" alt="Amar Daxini LinkedIN" width="22px" src="https://raw.githubusercontent.com/amardaxini/amardaxini/master/medium.svg" />
-</a>
 
+<br/>
 
-### About Me   
-
- Technical Architect with 13+ years of experience in building large scale distributed products and platforms.
-
-### 🛠 &nbsp;Tech Stack
+---
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
