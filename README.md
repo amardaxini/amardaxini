@@ -1,13 +1,8 @@
 
 ## Hi, I am Amar Daxini. 
  
-Experienced application architect who enjoys building products from scratch to scalable state.
+Technical Architect with 13+ years of experience in building large scale distributed products and platforms.        
 Strong passion for startups and working with new and emerging technologies.
-
-<a href="https://www.linkedin.com/in/amardaxini/" rel="Linkedin">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://amardaxini.medium.com/" rel="Blog">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
-<a href="http://paramitech.com" rel="Blog">![Linkedin](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
- <a href="mailto:amardaxini@gmail.com" rel="Gmail">![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### Tech Stack
 
@@ -28,8 +23,13 @@ Strong passion for startups and working with new and emerging technologies.
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
----
 
+### Connect With Me
+
+<a href="https://www.linkedin.com/in/amardaxini/" rel="Linkedin">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://amardaxini.medium.com/" rel="Blog">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="http://paramitech.com" rel="Blog">![Linkedin](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+ <a href="mailto:amardaxini@gmail.com" rel="Gmail">![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 
