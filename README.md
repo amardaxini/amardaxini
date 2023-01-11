@@ -14,6 +14,7 @@ Technical Architect with 13+ years of experience who enjoys building large scala
    
 
 ### Get In Touch!
+- Email: amardaxini@gmail.com
 - LinkedIn: https://www.linkedin.com/in/amardaxini/
 - Medium: https://medium.com/@amardaxini
 - Personal Blog: http://paramitech.com
